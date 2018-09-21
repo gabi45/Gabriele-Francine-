@@ -8,11 +8,11 @@ delta = b * b - 4 * a * c
 
 print("Delta: ", delta )
 
-if delta>=0
+if delta>=0:
     x1= (-b + math.sqrt(delta)) / (2 * a)
-    x2= (-b - math.sqrt((delta))/ (2 * a)
-    print("raiz x1: ", x1)
+    x2= (-b - math.sqrt(delta))/ (2 * a)
+    print("raiz ex01: ", x1)
     print("raiz x2: ", x2)
 else:
-    print("não existem raizes reais")
-          )
+    print("Nao existem raizes reais")
+
