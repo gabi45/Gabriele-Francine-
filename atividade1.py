@@ -7,7 +7,7 @@ if n1>n2>n3:
     print ("o maior numero e", n1, "e o maior numero e",n3)
 
 if n1>n3>n2:
-        print ("o maior numero e", n2, "e o maior numero e", n2)
+        print ("o maior numero e", n2, "e o menor numero e", n2)
 
 if n2>n1>n3:
     print ("o maior numero e", n2, "e o menor numero e", n3)
