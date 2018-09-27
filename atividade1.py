@@ -19,4 +19,4 @@ if n3>n2>n1:
     print (" o maior numero e", n3, " e o menor numero e", n1)
 
 if n3>n1>n2:
-    print ("O maior numero e", n3, " e o menor numero e", n1)
+    print ("O maior numero e", n3, " e o menor c numero e", n1)
