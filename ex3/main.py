@@ -1,6 +1,7 @@
 def main():
-    m = int(input("digite o valor do metro"))
-    s = int (input("digite os segundo"))
-    kmh= math.  m*1*3600/1000))
-    print(" igual a km por hora:", kmh)
+    ms = int(input("digite o valor do metro/s: "))
+    kmh = ms * 3600 / 1000
+    print kmh,"Km/h"
+
+main()
 
